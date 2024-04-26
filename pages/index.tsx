@@ -42,13 +42,13 @@ const Home: NextPage = () => {
         <div className="flex flex-wrap items-center justify-center gap-4 p-4">
           <a
             className="flex-none text-zinc-700 underline dark:text-zinc-400"
-            href="https://expense.vlad-yakovlev.dev/"
+            href="https://expense.vlad-iakovlev.dev/"
           >
             Track Expenses
           </a>
           <a
             className="flex-none text-zinc-700 underline dark:text-zinc-400"
-            href="https://wave-simulation.vlad-yakovlev.dev/"
+            href="https://wave-simulation.vlad-iakovlev.dev/"
           >
             Simulate Waves
           </a>
