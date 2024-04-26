@@ -26,7 +26,7 @@ const Home: NextPage = () => {
             <div>Vladislav Iakovlev</div>
             <div>Senior Frontend Developer</div>
             <div className="inline-flex justify-end space-x-2">
-              <a className="underline" href="https://github.com/vlad-yakovlev">
+              <a className="underline" href="https://github.com/vlad-iakovlev">
                 GitHub
               </a>
               <span>{'\u2022'}</span>

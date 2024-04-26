@@ -1,3 +1,3 @@
 # My website
 
-https://vlad-yakovlev.dev
+https://vlad-iakovlev.dev
