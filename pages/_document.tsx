@@ -22,7 +22,7 @@ export default function Document() {
           media="(prefers-color-scheme: dark)"
           content="#18181b"
         />
-        <meta name="description" content="Vladislav Yakovlev's website" />
+        <meta name="description" content="Vladislav Iakovlev's website" />
         <link rel="mask-icon" href="/icons/mask-icon.svg" color="#16a34a" />
         <link
           rel="apple-touch-icon"
