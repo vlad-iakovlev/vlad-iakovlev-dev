@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <>
       <NextHead>
-        <title>Vladislav Yakovlev</title>
+        <title>Vladislav Iakovlev</title>
       </NextHead>
 
       <div className="flex min-h-full flex-col items-center justify-between">
@@ -23,7 +23,7 @@ const Home: NextPage = () => {
             />
           </div>
           <div className="space-y-2 text-center sm:text-right">
-            <div>Vladislav Yakovlev</div>
+            <div>Vladislav Iakovlev</div>
             <div>Senior Frontend Developer</div>
             <div className="inline-flex justify-end space-x-2">
               <a className="underline" href="https://github.com/vlad-yakovlev">
@@ -32,7 +32,7 @@ const Home: NextPage = () => {
               <span>{'\u2022'}</span>
               <a
                 className="underline"
-                href="https://www.linkedin.com/in/vlad-yakovlev/"
+                href="https://www.linkedin.com/in/vlad-iakovlev/"
               >
                 LinkedIn
               </a>
