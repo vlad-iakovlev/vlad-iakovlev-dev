@@ -2,16 +2,15 @@
   "name": "vlad-iakovlev-dev",
   "version": "0.0.0",
   "private": true,
-  "type": "module",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
-    "generate-icons": "ts-node --esm bin/generate-icons.ts",
+    "generate-icons": "ts-node --esm bin/generate-icons.mts",
     "compile": "tsc --noEmit",
     "lint": "next lint",
     "lint:ci": "DEBUG=eslint:cli-engine next lint",
-    "prettier": "prettier --write '**/*.(js|ts|tsx|md|json)'",
-    "prettier:ci": "prettier --check '**/*.(js|ts|tsx|md|json)'"
+    "prettier": "prettier --write '**/*.(js|mjs|ts|mts|tsx|md|json)'",
+    "prettier:ci": "prettier --check '**/*.(js|mjs|ts|mts|tsx|md|json)'"
   },
   "dependencies": {
     "next": "15.4.5",

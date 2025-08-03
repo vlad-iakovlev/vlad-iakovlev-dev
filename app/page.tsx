@@ -1,4 +1,4 @@
-import { Image } from 'next/dist/client/image-component.js'
+import Image from 'next/image'
 import photoAsset from '../assets/photo.jpg'
 
 export default function Home() {
