@@ -1,5 +1,5 @@
+import { Image } from 'next/dist/client/image-component.js'
 import photoAsset from '../assets/photo.jpg'
-import { NextImage } from '../components/next/Image.js'
 
 export default function Home() {
   return (
@@ -7,7 +7,7 @@ export default function Home() {
       <div className="h-14" />
       <div className="flex flex-col items-center gap-x-10 gap-y-12 border-b-8 border-green-700 bg-white px-10 py-16 shadow-xl sm:flex-row dark:bg-zinc-800">
         <div className="flex flex-none">
-          <NextImage
+          <Image
             className="rounded-full"
             src={photoAsset}
             alt="Vladislav's photo"
