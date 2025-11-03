@@ -13,7 +13,7 @@
     "prettier:ci": "prettier --check '**/*.(js|mjs|ts|mts|tsx|md|json)'"
   },
   "dependencies": {
-    "next": "^15.5.6",
+    "next": "^16.0.1",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
