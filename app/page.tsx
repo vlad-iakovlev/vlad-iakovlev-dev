@@ -25,7 +25,7 @@ export default function Home() {
             <span>{'\u2022'}</span>
             <a
               className="underline"
-              href="https://www.linkedin.com/in/vlad-iakovlev/"
+              href="https://linkedin.com/in/vlad-iakovlev/"
             >
               LinkedIn
             </a>
